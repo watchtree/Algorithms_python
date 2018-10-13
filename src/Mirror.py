@@ -14,21 +14,21 @@ class Solution:
     #返回镜像树的根节点
     def Mirror(self, root):
         if not root:
-            return
+            return root
         tmp = root.left
         root.left = root.right
         root.right = tmp
 
-        if root.left:
-            self.Mirror(root.left)
-        if root.right:
-            self.Mirror(root.left)
+        self.Mirror(root.left)
+        self.Mirror(root.right)
 
 pNode1 = TreeNode(8)
 pNode2 = TreeNode(6)
 pNode3 = TreeNode(10)
 pNode4 = TreeNode(5)
-
+pNode5 = TreeNode(7)
+pNode6 = TreeNode(9)
+pNode7 = TreeNode(11)
 
 pNode1.left = pNode2
 pNode1.right = pNode3
