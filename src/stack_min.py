@@ -7,7 +7,7 @@
 
 
 # 此种方法在栈中输入数字时，即利用minStack总是将最小的数字放入其中最后一个
-# 时间复杂度应为O（1）为了达到这种效果，对类多加一个minstack，表示在相应的stack中最小的放在最后一位
+# 时间复杂度应为O（1）为了达到这种效果，对类多加一个minstack，表示在相应的stack中最小的放在最后一位，用时间换空间加入了辅助空间
 class Solution:
     def __init__(self):
         self.stack = []
