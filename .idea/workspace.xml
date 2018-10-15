@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/printMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stack_min.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mirror.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mirror.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,43 +19,44 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="md" value="2" />
-          <entry key="py" value="4" />
+          <entry key="md" value="4" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="Markdown" value="2" />
-          <entry key="Python" value="4" />
+          <entry key="Markdown" value="4" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="37" />
-          <entry key="md" value="100" />
-          <entry key="py" value="3882" />
-          <entry key="txt" value="12" />
+          <entry key="md" value="150" />
+          <entry key="py" value="4552" />
+          <entry key="txt" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Markdown" value="100" />
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="3919" />
+          <entry key="Markdown" value="150" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="4589" />
         </counts>
       </usages-collector>
     </session>
@@ -65,12 +64,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/printMatrix.py">
+        <entry file="file://$PROJECT_DIR$/src/stack_min.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="104" selection-start-line="104" selection-end-line="120" selection-end-column="21" />
+            <state relative-caret-position="152">
+              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding>
-                <marker date="1539480281622" expanded="true" signature="284:290" ph="..." />
+                <marker date="1539574375177" expanded="true" signature="314:371" ph="..." />
+                <marker date="1539574375177" expanded="true" signature="618:784" ph="..." />
+                <marker date="1539574375177" expanded="true" signature="798:871" ph="..." />
               </folding>
             </state>
           </provider>
@@ -95,15 +96,16 @@
         <option value="$PROJECT_DIR$/src/Lists.ipynb" />
         <option value="$PROJECT_DIR$/src/Lists.py" />
         <option value="$PROJECT_DIR$/src/Mirror.py" />
-        <option value="$PROJECT_DIR$/src/readme.md" />
         <option value="$PROJECT_DIR$/src/printMatrix.py" />
+        <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/src/stack_min.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1298" />
-    <option name="height" value="1089" />
+    <option name="x" value="-10" />
+    <option name="width" value="1299" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -127,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,7 +146,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -161,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.printMatrix">
+  <component name="RunManager" selected="Python.stack_min">
     <configuration name="Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,13 +227,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="stack_min" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/stack_min.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Lists" />
       <item itemvalue="Python.Mirror" />
       <item itemvalue="Python.printMatrix" />
+      <item itemvalue="Python.stack_min" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.stack_min" />
         <item itemvalue="Python.printMatrix" />
         <item itemvalue="Python.Mirror" />
         <item itemvalue="Python.Lists" />
@@ -263,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539427781326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="printMatrix 顺时针打印矩阵">
+      <created>1539480483910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539480483910</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -276,15 +308,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
+    <frame x="-8" y="0" width="1039" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24626121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33986014" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33938548" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986014" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,7 +336,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mirrot镜像树" />
     <MESSAGE value="Mirror镜像" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mirror镜像" />
+    <MESSAGE value="printMatrix 顺时针打印矩阵" />
+    <option name="LAST_COMMIT_MESSAGE" value="printMatrix 顺时针打印矩阵" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Lists.ipynb" />
@@ -323,8 +356,8 @@
     <entry file="file://$PROJECT_DIR$/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -332,10 +365,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/printMatrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="104" selection-start-line="104" selection-end-line="120" selection-end-column="21" />
+        <state relative-caret-position="153">
+          <caret line="108" column="12" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
           <folding>
             <marker date="1539480281622" expanded="true" signature="284:290" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stack_min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <marker date="1539574375177" expanded="true" signature="314:371" ph="..." />
+            <marker date="1539574375177" expanded="true" signature="618:784" ph="..." />
+            <marker date="1539574375177" expanded="true" signature="798:871" ph="..." />
           </folding>
         </state>
       </provider>
