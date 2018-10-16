@@ -88,6 +88,7 @@ class Solution:
                 return True
         return False
 
+
 if __name__ == "__main__":
     array = [[1, 2, 8, 9],
              [2, 4, 9, 12],
