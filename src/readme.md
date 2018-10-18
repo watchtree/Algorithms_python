@@ -22,3 +22,7 @@
 原理：字符串
 
 ## printListFromTailToHead：从尾到头打印链表
+原理：链表
+
+## reConstructBinaryTree：重建二叉树
+原理：二叉树
