@@ -5,10 +5,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/printMatrix.py" line="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="printListFromTailToHead 从尾到头打印链表">
-      <change afterPath="$PROJECT_DIR$/src/reConstructBinaryTree.py" afterDir="false" />
+    <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/minNumberInRotateArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +19,11 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.31" value="1" />
@@ -32,21 +31,21 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="8" />
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="8" />
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -54,43 +53,27 @@
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="37" />
           <entry key="md" value="398" />
-          <entry key="py" value="8979" />
-          <entry key="txt" value="125" />
+          <entry key="py" value="9977" />
+          <entry key="txt" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="398" />
-          <entry key="PLAIN_TEXT" value="125" />
-          <entry key="Python" value="9016" />
+          <entry key="PLAIN_TEXT" value="136" />
+          <entry key="Python" value="10014" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/reConstructBinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-              <folding>
-                <marker date="1539906199597" expanded="true" signature="279:389" ph="..." />
-                <marker date="1539906199597" expanded="true" signature="456:828" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="348">
-                <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/minNumberInRotateArray.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -123,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/printListFromTailToHead.py" />
         <option value="$PROJECT_DIR$/src/reConstructBinaryTree.py" />
         <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/src/minNumberInRotateArray.py" />
       </list>
     </option>
   </component>
@@ -187,8 +171,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reConstructBinaryTree">
-    <configuration name="Find" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.minNumberInRotateArray">
+    <configuration name="minNumberInRotateArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +184,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Find.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/minNumberInRotateArray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +278,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Find" />
       <item itemvalue="Python.replaceSpace" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.printListFromTailToHead" />
       <item itemvalue="Python.reConstructBinaryTree" />
+      <item itemvalue="Python.minNumberInRotateArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minNumberInRotateArray" />
         <item itemvalue="Python.reConstructBinaryTree" />
         <item itemvalue="Python.printListFromTailToHead" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.replaceSpace" />
-        <item itemvalue="Python.Find" />
       </list>
     </recent_temporary>
   </component>
@@ -377,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539821268084</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="reConstructBinaryTree 重建二叉树">
+      <created>1539906874416</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1539906874416</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -393,12 +384,12 @@
     <frame x="-6" y="0" width="1037" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24675325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24675325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33893558" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33893558" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -424,7 +415,8 @@
     <MESSAGE value="Find 二维数组中的查找" />
     <MESSAGE value="replaceSpace 替换空格" />
     <MESSAGE value="printListFromTailToHead 从尾到头打印链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="printListFromTailToHead 从尾到头打印链表" />
+    <MESSAGE value="reConstructBinaryTree 重建二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="reConstructBinaryTree 重建二叉树" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Lists.ipynb" />
@@ -492,6 +484,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="348">
+            <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/reConstructBinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -503,13 +505,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="348">
-            <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/minNumberInRotateArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
         </state>
       </provider>
     </entry>
