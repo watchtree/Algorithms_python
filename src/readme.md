@@ -26,3 +26,6 @@
 
 ## reConstructBinaryTree：重建二叉树
 原理：二叉树
+
+## NumverOf1: 二进制中1的个数
+原理：二进制、补码、负数
