@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindKthTotail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +15,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="3" />
@@ -23,6 +23,7 @@
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
@@ -30,21 +31,21 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="10" />
-          <entry key="py" value="19" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="10" />
-          <entry key="Python" value="19" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -52,27 +53,39 @@
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="276" />
           <entry key="md" value="440" />
-          <entry key="py" value="15540" />
-          <entry key="txt" value="266" />
+          <entry key="py" value="16162" />
+          <entry key="txt" value="278" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="440" />
-          <entry key="PLAIN_TEXT" value="266" />
-          <entry key="Python" value="15816" />
+          <entry key="PLAIN_TEXT" value="278" />
+          <entry key="Python" value="16438" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindKthTotail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="363">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReverseList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="549">
+              <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+              <folding>
+                <marker date="1540647060867" expanded="true" signature="409:414" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,13 +138,14 @@
         <option value="$PROJECT_DIR$/src/power.py" />
         <option value="$PROJECT_DIR$/src/reOrderArray.py" />
         <option value="$PROJECT_DIR$/src/FindKthTotail.py" />
+        <option value="$PROJECT_DIR$/src/ReverseList.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1298" />
-    <option name="height" value="1089" />
+    <option name="x" value="-10" />
+    <option name="width" value="1299" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -438,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540451967543</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="FindKthToTail 链表中倒数第k个结点">
+      <created>1540517613317</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540517613318</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -451,15 +472,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
+    <frame x="-8" y="0" width="1039" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24626121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49900398" visible="true" weight="0.33846155" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900398" weight="0.33846155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3977591" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,7 +513,8 @@
     <MESSAGE value="rectCover 矩形覆盖" />
     <MESSAGE value="NumberOf1 二进制中1的个数" />
     <MESSAGE value="reOrderArray 调整数组顺序使奇数位于偶数前面" />
-    <option name="LAST_COMMIT_MESSAGE" value="reOrderArray 调整数组顺序使奇数位于偶数前面" />
+    <MESSAGE value="FindKthToTail 链表中倒数第k个结点" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindKthToTail 链表中倒数第k个结点" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Lists.ipynb" />
@@ -625,6 +647,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindKthTotail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -635,10 +664,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindKthTotail.py">
+    <entry file="file://$PROJECT_DIR$/src/ReverseList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" selection-start-line="15" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="549">
+          <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+          <folding>
+            <marker date="1540647060867" expanded="true" signature="409:414" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
