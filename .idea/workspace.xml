@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HasSubtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintFromTopToBottom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +15,13 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="3" />
           <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="1" />
@@ -31,21 +32,21 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="10" />
-          <entry key="py" value="22" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="10" />
-          <entry key="Python" value="22" />
+          <entry key="Python" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -53,16 +54,16 @@
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="276" />
           <entry key="md" value="440" />
-          <entry key="py" value="18530" />
-          <entry key="txt" value="295" />
+          <entry key="py" value="19362" />
+          <entry key="txt" value="314" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="440" />
-          <entry key="PLAIN_TEXT" value="295" />
-          <entry key="Python" value="18806" />
+          <entry key="PLAIN_TEXT" value="314" />
+          <entry key="Python" value="19638" />
         </counts>
       </usages-collector>
     </session>
@@ -70,10 +71,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/HasSubtree.py">
+        <entry file="file://$PROJECT_DIR$/src/PrintFromTopToBottom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="62" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="62" />
+            <state relative-caret-position="235">
+              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -117,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/ReverseList.py" />
         <option value="$PROJECT_DIR$/src/Merge.py" />
         <option value="$PROJECT_DIR$/src/HasSubtree.py" />
+        <option value="$PROJECT_DIR$/src/PrintFromTopToBottom.py" />
       </list>
     </option>
   </component>
@@ -184,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.HasSubtree">
+  <component name="RunManager" selected="Python.PrintFromTopToBottom">
     <configuration name="FindKthTotail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="power" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PrintFromTopToBottom" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/power.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PrintFromTopToBottom.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,19 +293,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.power" />
       <item itemvalue="Python.reOrderArray" />
       <item itemvalue="Python.FindKthTotail" />
       <item itemvalue="Python.Merge" />
       <item itemvalue="Python.HasSubtree" />
+      <item itemvalue="Python.PrintFromTopToBottom" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PrintFromTopToBottom" />
         <item itemvalue="Python.HasSubtree" />
         <item itemvalue="Python.Merge" />
         <item itemvalue="Python.FindKthTotail" />
         <item itemvalue="Python.reOrderArray" />
-        <item itemvalue="Python.power" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +453,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540995669232</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="HasSubtree 树的子结构">
+      <created>1541054981850</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541054981850</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -508,7 +517,8 @@
     <MESSAGE value="FindKthToTail 链表中倒数第k个结点" />
     <MESSAGE value="ReverseList 反转链表" />
     <MESSAGE value="merge 合并两个排序的链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge 合并两个排序的链表" />
+    <MESSAGE value="HasSubtree 树的子结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="HasSubtree 树的子结构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -675,8 +685,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HasSubtree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="62" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="62" />
+        <state relative-caret-position="190">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintFromTopToBottom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
         </state>
       </provider>
     </entry>
