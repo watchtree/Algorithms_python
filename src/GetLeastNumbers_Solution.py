@@ -73,7 +73,7 @@ class Solution:
                 output.append(number)#将前k个数据固定在前k个
             else:
                 #构造最大堆
-                output = heapq.nlargest(k, output)
+                output = heapq.nlargest(k, output)#函数作用是堆排序，在由后向前取k个
                 #heapq模块实现了一个适用于Python列表的最小堆排序算法。
                 #去一个列表中数值最大的3个元素。
                 if number>=output[0]:
