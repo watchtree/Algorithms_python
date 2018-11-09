@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MoreThanHalfNum_Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GetLeastNumbers_Solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreThanHalfNum_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoreThanHalfNum_Solution.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.19" value="3" />
@@ -31,30 +32,30 @@
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="11" />
-          <entry key="py" value="30" />
+          <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="11" />
-          <entry key="Python" value="30" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Python Console" value="625" />
+          <entry key="Python Console" value="653" />
           <entry key="md" value="462" />
-          <entry key="py" value="27267" />
+          <entry key="py" value="29063" />
           <entry key="txt" value="375" />
         </counts>
       </usages-collector>
@@ -63,7 +64,7 @@
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="462" />
           <entry key="PLAIN_TEXT" value="375" />
-          <entry key="Python" value="27892" />
+          <entry key="Python" value="29716" />
         </counts>
       </usages-collector>
     </session>
@@ -71,13 +72,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MoreThanHalfNum_Solution.py">
+        <entry file="file://$PROJECT_DIR$/src/GetLeastNumbers_Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="136" column="6" selection-start-line="136" selection-start-column="6" selection-end-line="136" selection-end-column="6" />
+            <state relative-caret-position="115">
+              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
               <folding>
-                <marker date="1541648794322" expanded="true" signature="1131:1306" ph="..." />
-                <marker date="1541648794322" expanded="true" signature="2925:3120" ph="..." />
+                <marker date="1541741672096" expanded="true" signature="535:1314" ph="..." />
               </folding>
             </state>
           </provider>
@@ -129,13 +129,14 @@
         <option value="$PROJECT_DIR$/src/Convert.py" />
         <option value="$PROJECT_DIR$/src/Permutation.py" />
         <option value="$PROJECT_DIR$/src/MoreThanHalfNum_Solution.py" />
+        <option value="$PROJECT_DIR$/src/GetLeastNumbers_Solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1297" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -162,7 +163,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,6 +179,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -512,7 +513,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541555199217</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="MoreThanHalfNum_Solution 数组中出现次数超过一半的数字">
+      <created>1541649044612</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1541649044612</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView">
@@ -525,10 +533,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1037" height="870" extended-state="0" />
+    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24675325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -541,7 +549,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500996" side_tool="true" weight="0.33798882" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32492998" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32447553" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -551,7 +559,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mirrot镜像树" />
     <MESSAGE value="Mirror镜像" />
     <MESSAGE value="printMatrix 顺时针打印矩阵" />
     <MESSAGE value="stack_min 栈并包含min函数" />
@@ -576,7 +583,8 @@
     <MESSAGE value="Clone 复杂链表的复制" />
     <MESSAGE value="Convert 二叉搜索树与双向链表" />
     <MESSAGE value="Permutation 字符串的排列" />
-    <option name="LAST_COMMIT_MESSAGE" value="Permutation 字符串的排列" />
+    <MESSAGE value="MoreThanHalfNum_Solution 数组中出现次数超过一半的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="MoreThanHalfNum_Solution 数组中出现次数超过一半的数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -792,11 +800,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MoreThanHalfNum_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="136" column="6" selection-start-line="136" selection-start-column="6" selection-end-line="136" selection-end-column="6" />
+        <state relative-caret-position="68">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GetLeastNumbers_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
           <folding>
-            <marker date="1541648794322" expanded="true" signature="1131:1306" ph="..." />
-            <marker date="1541648794322" expanded="true" signature="2925:3120" ph="..." />
+            <marker date="1541741672096" expanded="true" signature="535:1314" ph="..." />
           </folding>
         </state>
       </provider>

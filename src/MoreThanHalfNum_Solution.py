@@ -163,6 +163,8 @@ class Solution:
                 result = temp[i]
                 break
         #统计验证是否符合要求
+
+
         times = 0
         for i in range(length):
             if result == numbers[i]:
