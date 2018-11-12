@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberOf1Between1AndN_Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintMinNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +15,10 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="25" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="4" />
+          <entry key="project.open.time.19" value="5" />
           <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="4" />
           <entry key="project.open.time.22" value="2" />
@@ -32,29 +32,29 @@
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="11" />
-          <entry key="py" value="33" />
+          <entry key="py" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="11" />
-          <entry key="Python" value="33" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Python Console" value="826" />
+          <entry key="Python Console" value="844" />
           <entry key="md" value="462" />
-          <entry key="py" value="31156" />
+          <entry key="py" value="32031" />
           <entry key="txt" value="375" />
         </counts>
       </usages-collector>
@@ -63,7 +63,7 @@
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="462" />
           <entry key="PLAIN_TEXT" value="375" />
-          <entry key="Python" value="31982" />
+          <entry key="Python" value="32875" />
         </counts>
       </usages-collector>
     </session>
@@ -71,14 +71,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NumberOf1Between1AndN_Solution.py">
+        <entry file="file://$PROJECT_DIR$/src/PrintMinNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="73" column="37" lean-forward="true" selection-start-line="67" selection-end-line="73" selection-end-column="37" />
+            <state relative-caret-position="234">
+              <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
               <folding>
-                <marker date="1541904978961" expanded="true" signature="386:633" ph="..." />
-                <marker date="1541904978961" expanded="true" signature="674:1984" ph="..." />
-                <marker date="1541904978961" expanded="true" signature="912:913" ph="..." />
+                <marker date="1541984760721" expanded="true" signature="242:247" ph="..." />
               </folding>
             </state>
           </provider>
@@ -133,13 +131,14 @@
         <option value="$PROJECT_DIR$/src/GetLeastNumbers_Solution.py" />
         <option value="$PROJECT_DIR$/src/FindGreatestSumOfSubArray.py" />
         <option value="$PROJECT_DIR$/src/NumberOf1Between1AndN_Solution.py" />
+        <option value="$PROJECT_DIR$/src/PrintMinNumber.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1298" />
-    <option name="height" value="1089" />
+    <option name="x" value="-10" />
+    <option name="width" value="1299" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -166,6 +165,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,7 +182,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,28 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NumberOf1Between1AndN_Solution">
-    <configuration name="Convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Convert.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PrintMinNumber">
     <configuration name="FindGreatestSumOfSubArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,20 +284,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PrintMinNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PrintMinNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Convert" />
       <item itemvalue="Python.Permutation" />
       <item itemvalue="Python.MoreThanHalfNum_Solution" />
       <item itemvalue="Python.FindGreatestSumOfSubArray" />
       <item itemvalue="Python.NumberOf1Between1AndN_Solution" />
+      <item itemvalue="Python.PrintMinNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PrintMinNumber" />
         <item itemvalue="Python.NumberOf1Between1AndN_Solution" />
         <item itemvalue="Python.FindGreatestSumOfSubArray" />
         <item itemvalue="Python.MoreThanHalfNum_Solution" />
         <item itemvalue="Python.Permutation" />
-        <item itemvalue="Python.Convert" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541856302956</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="NumberOf1Between1AndN_Solution 整数中1出现的次数">
+      <created>1541905163181</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1541905163181</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView">
@@ -557,15 +563,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
+    <frame x="-8" y="0" width="1039" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24626121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49900398" visible="true" weight="0.33426574" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49900398" visible="true" weight="0.3337989" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3958042" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,7 +579,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500996" side_tool="true" weight="0.33798882" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32447553" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32402235" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -583,7 +589,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="stack_min 栈并包含min函数" />
     <MESSAGE value="IsPopOrder 栈的压入、弹出序列" />
     <MESSAGE value="Find 二维数组中的查找" />
     <MESSAGE value="replaceSpace 替换空格" />
@@ -608,7 +613,8 @@
     <MESSAGE value="MoreThanHalfNum_Solution 数组中出现次数超过一半的数字" />
     <MESSAGE value="GetLeastNumbers_Solution 最小的k个数" />
     <MESSAGE value="FindGreatestSumOfSubArray 连续子数组的最大和" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindGreatestSumOfSubArray 连续子数组的最大和" />
+    <MESSAGE value="NumberOf1Between1AndN_Solution 整数中1出现的次数" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOf1Between1AndN_Solution 整数中1出现的次数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -842,12 +848,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberOf1Between1AndN_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="73" column="37" lean-forward="true" selection-start-line="67" selection-end-line="73" selection-end-column="37" />
+        <state relative-caret-position="398">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
           <folding>
-            <marker date="1541904978961" expanded="true" signature="386:633" ph="..." />
-            <marker date="1541904978961" expanded="true" signature="674:1984" ph="..." />
-            <marker date="1541904978961" expanded="true" signature="912:913" ph="..." />
+            <marker date="1541905161701" expanded="true" signature="386:633" ph="..." />
+            <marker date="1541905161701" expanded="true" signature="912:913" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintMinNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <marker date="1541984760721" expanded="true" signature="242:247" ph="..." />
           </folding>
         </state>
       </provider>
