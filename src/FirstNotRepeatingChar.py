@@ -44,6 +44,18 @@ class Solution:
                 return i
         return -1
 
+    # 运行时间：33 ms
+    # 占用内存：5720 k
+    def FirstNotRepeatingChar3(self, s):
+        if len(s)<=0:
+            return -1
+        s = list(s)
+        for i in range(len(s)):
+            if s.count(s[i]) == 1:
+                return i
+                break
+
+
 a = "googgle"
 S = Solution()
-print(S.FirstNotRepeatingChar2(a))
+print(S.FirstNotRepeatingChar3(a))
