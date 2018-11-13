@@ -40,8 +40,6 @@ class Solution:
         # 比较每两个数字串的拼接的mn和nm的大小，若mn < nm，则m更小，反之n更小，然后把更小的数放入一个新的List中
         #有字符串A和B， A + B < B + A，则A在前；反之B在前
         strList.sort(key=key)#以上key作为比较函数
-
-
         return ''.join(strList)
 
 a = [3,32,321]
