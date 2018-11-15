@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InversePairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindFirstCommonNode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +15,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="5" />
@@ -30,32 +29,32 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="3" />
           <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="35" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="13" />
-          <entry key="py" value="37" />
+          <entry key="py" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="13" />
-          <entry key="Python" value="37" />
+          <entry key="Python" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Python Console" value="1097" />
+          <entry key="Python Console" value="1124" />
           <entry key="md" value="481" />
-          <entry key="py" value="35589" />
+          <entry key="py" value="36932" />
           <entry key="txt" value="393" />
         </counts>
       </usages-collector>
@@ -64,7 +63,7 @@
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="481" />
           <entry key="PLAIN_TEXT" value="393" />
-          <entry key="Python" value="36686" />
+          <entry key="Python" value="38056" />
         </counts>
       </usages-collector>
     </session>
@@ -83,11 +82,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InversePairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="28" selection-start-line="28" selection-end-line="76" />
+            <state relative-caret-position="152">
+              <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindFirstCommonNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+              <folding>
+                <marker date="1542250594250" expanded="true" signature="545:703" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -157,13 +168,14 @@
         <option value="$PROJECT_DIR$/src/FirstNotRepeatingChar.py" />
         <option value="$PROJECT_DIR$/src/readme.md" />
         <option value="$PROJECT_DIR$/src/InversePairs.py" />
+        <option value="$PROJECT_DIR$/src/FindFirstCommonNode.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1299" />
-    <option name="height" value="1090" />
+    <option name="x" value="-8" />
+    <option name="width" value="1290" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -190,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -603,7 +615,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542120782147</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="InversePairs 数组中的逆序对">
+      <created>1542160800761</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1542160800761</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView">
@@ -616,10 +635,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1039" height="872" extended-state="0" />
+    <frame x="-6" y="0" width="1032" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24626121" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24799196" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -632,7 +651,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500996" side_tool="true" weight="0.33798882" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3226257" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32352942" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -642,7 +661,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="printListFromTailToHead 从尾到头打印链表" />
     <MESSAGE value="reConstructBinaryTree 重建二叉树" />
     <MESSAGE value="minNumberInRotateArray 旋转数组的最小数字" />
     <MESSAGE value="Fibonacci 斐波拉契数列" />
@@ -667,7 +685,8 @@
     <MESSAGE value="PrintMinNumber 把数组排成最小数" />
     <MESSAGE value="GetUglyNumber_Solution 丑数" />
     <MESSAGE value="FirstNotRepeatingChar 第一个只出现一次的字符" />
-    <option name="LAST_COMMIT_MESSAGE" value="FirstNotRepeatingChar 第一个只出现一次的字符" />
+    <MESSAGE value="InversePairs 数组中的逆序对" />
+    <option name="LAST_COMMIT_MESSAGE" value="InversePairs 数组中的逆序对" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -949,8 +968,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InversePairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="28" selection-start-line="28" selection-end-line="76" />
+        <state relative-caret-position="152">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindFirstCommonNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+          <folding>
+            <marker date="1542250594250" expanded="true" signature="545:703" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
