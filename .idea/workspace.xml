@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GetNumberOfK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeDepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IsBalanced_Solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +18,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="5" />
@@ -29,7 +28,7 @@
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="3" />
           <entry key="project.open.time.33" value="1" />
@@ -37,38 +36,38 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="13" />
-          <entry key="py" value="40" />
+          <entry key="py" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="13" />
-          <entry key="Python" value="40" />
+          <entry key="Python" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Python Console" value="1124" />
+          <entry key="Python Console" value="1132" />
           <entry key="md" value="481" />
-          <entry key="py" value="38213" />
-          <entry key="txt" value="393" />
+          <entry key="py" value="39393" />
+          <entry key="txt" value="395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="481" />
-          <entry key="PLAIN_TEXT" value="393" />
-          <entry key="Python" value="39337" />
+          <entry key="PLAIN_TEXT" value="395" />
+          <entry key="Python" value="40525" />
         </counts>
       </usages-collector>
     </session>
@@ -78,8 +77,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GetNumberOfK.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="969">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
                 <marker date="1542329684141" expanded="true" signature="175:181" ph="..." />
               </folding>
@@ -87,13 +86,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreeDepth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="40" selection-end-column="19" />
+            <state relative-caret-position="32">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
               <folding>
-                <marker date="1542330625313" expanded="true" signature="401:410" ph="..." />
+                <marker date="1542330781053" expanded="true" signature="401:410" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IsBalanced_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="50" selection-start-line="50" selection-end-line="59" selection-end-column="93" />
+              <folding>
+                <marker date="1542428976663" expanded="true" signature="425:430" ph="..." />
+                <marker date="1542428976663" expanded="true" signature="469:480" ph="..." />
+                <marker date="1542428976663" expanded="true" signature="1345:1770" ph="..." />
               </folding>
             </state>
           </provider>
@@ -155,13 +168,14 @@
         <option value="$PROJECT_DIR$/src/FindFirstCommonNode.py" />
         <option value="$PROJECT_DIR$/src/GetNumberOfK.py" />
         <option value="$PROJECT_DIR$/src/TreeDepth.py" />
+        <option value="$PROJECT_DIR$/src/IsBalanced_Solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="width" value="1297" />
-    <option name="height" value="1088" />
+    <option name="x" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -222,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InversePairs">
+  <component name="RunManager" selected="Python.IsBalanced_Solution">
     <configuration name="FirstNotRepeatingChar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,7 +300,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NumberOf1Between1AndN_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="IsBalanced_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,7 +312,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/NumberOf1Between1AndN_Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/IsBalanced_Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +343,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.NumberOf1Between1AndN_Solution" />
       <item itemvalue="Python.PrintMinNumber" />
       <item itemvalue="Python.GetUglyNumber_Solution" />
       <item itemvalue="Python.FirstNotRepeatingChar" />
       <item itemvalue="Python.InversePairs" />
+      <item itemvalue="Python.IsBalanced_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.IsBalanced_Solution" />
         <item itemvalue="Python.InversePairs" />
         <item itemvalue="Python.FirstNotRepeatingChar" />
         <item itemvalue="Python.GetUglyNumber_Solution" />
         <item itemvalue="Python.PrintMinNumber" />
-        <item itemvalue="Python.NumberOf1Between1AndN_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -615,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542250708306</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="GetNumberOfK 数字在排序数组中出现的次数&#10;TreeDepth 二叉树的深度">
+      <created>1542330842832</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1542330842832</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView">
@@ -628,10 +649,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="1037" height="870" extended-state="0" />
+    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24675325" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -644,7 +665,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500996" side_tool="true" weight="0.33798882" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32352942" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32307693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -654,7 +675,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="minNumberInRotateArray 旋转数组的最小数字" />
     <MESSAGE value="Fibonacci 斐波拉契数列" />
     <MESSAGE value="jumpFloor 青蛙跳" />
     <MESSAGE value="rectCover 矩形覆盖" />
@@ -679,7 +699,8 @@
     <MESSAGE value="FirstNotRepeatingChar 第一个只出现一次的字符" />
     <MESSAGE value="InversePairs 数组中的逆序对" />
     <MESSAGE value="FindFirstCommonNode 两个链表的第一个公共结点" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindFirstCommonNode 两个链表的第一个公共结点" />
+    <MESSAGE value="GetNumberOfK 数字在排序数组中出现的次数&#10;TreeDepth 二叉树的深度" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetNumberOfK 数字在排序数组中出现的次数&#10;TreeDepth 二叉树的深度" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -978,8 +999,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GetNumberOfK.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        <state relative-caret-position="969">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
             <marker date="1542329684141" expanded="true" signature="175:181" ph="..." />
           </folding>
@@ -988,10 +1009,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeDepth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="32">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
           <folding>
-            <marker date="1542330625313" expanded="true" signature="401:410" ph="..." />
+            <marker date="1542330781053" expanded="true" signature="401:410" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsBalanced_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="50" selection-start-line="50" selection-end-line="59" selection-end-column="93" />
+          <folding>
+            <marker date="1542428976663" expanded="true" signature="425:430" ph="..." />
+            <marker date="1542428976663" expanded="true" signature="469:480" ph="..." />
+            <marker date="1542428976663" expanded="true" signature="1345:1770" ph="..." />
           </folding>
         </state>
       </provider>
