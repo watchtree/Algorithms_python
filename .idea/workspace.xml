@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindNumsAppearOnce.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindContinuousSequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,13 +18,13 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="33" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="5" />
           <entry key="project.open.time.20" value="4" />
-          <entry key="project.open.time.21" value="4" />
-          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.21" value="5" />
+          <entry key="project.open.time.22" value="4" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="2" />
@@ -36,21 +36,21 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="13" />
-          <entry key="py" value="42" />
+          <entry key="py" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="13" />
-          <entry key="Python" value="42" />
+          <entry key="Python" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,7 +58,7 @@
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="1150" />
           <entry key="md" value="481" />
-          <entry key="py" value="40564" />
+          <entry key="py" value="40588" />
           <entry key="txt" value="401" />
         </counts>
       </usages-collector>
@@ -67,21 +67,30 @@
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="481" />
           <entry key="PLAIN_TEXT" value="401" />
-          <entry key="Python" value="41714" />
+          <entry key="Python" value="41738" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindNumsAppearOnce.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding>
                 <marker date="1542438393349" expanded="true" signature="333:342" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindContinuousSequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -144,13 +153,14 @@
         <option value="$PROJECT_DIR$/src/TreeDepth.py" />
         <option value="$PROJECT_DIR$/src/IsBalanced_Solution.py" />
         <option value="$PROJECT_DIR$/src/FindNumsAppearOnce.py" />
+        <option value="$PROJECT_DIR$/src/FindContinuousSequence.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1299" />
-    <option name="height" value="1090" />
+    <option name="x" value="-8" />
+    <option name="width" value="1297" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -177,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,6 +203,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -618,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542429229552</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="FindNumsAppearOnce 数组中只出现一次的数字">
+      <created>1542438482338</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1542438482338</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -631,10 +648,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
+    <frame x="-6" y="0" width="1037" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24675325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -657,7 +674,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="jumpFloor 青蛙跳" />
     <MESSAGE value="rectCover 矩形覆盖" />
     <MESSAGE value="NumberOf1 二进制中1的个数" />
     <MESSAGE value="reOrderArray 调整数组顺序使奇数位于偶数前面" />
@@ -682,7 +698,8 @@
     <MESSAGE value="FindFirstCommonNode 两个链表的第一个公共结点" />
     <MESSAGE value="GetNumberOfK 数字在排序数组中出现的次数&#10;TreeDepth 二叉树的深度" />
     <MESSAGE value="getDepth 平衡二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="getDepth 平衡二叉树" />
+    <MESSAGE value="FindNumsAppearOnce 数组中只出现一次的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindNumsAppearOnce 数组中只出现一次的数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -915,10 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <marker date="1541905161701" expanded="true" signature="386:633" ph="..." />
-            <marker date="1541905161701" expanded="true" signature="912:913" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -926,9 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding>
-            <marker date="1541985160663" expanded="true" signature="242:247" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -936,9 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
-          <folding>
-            <marker date="1542070894433" expanded="true" signature="342:347" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,9 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-40">
           <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <marker date="1542250683953" expanded="true" signature="545:723" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -973,9 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-          <folding>
-            <marker date="1542120779281" expanded="true" signature="241:247" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -983,9 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
           <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <marker date="1542329684141" expanded="true" signature="175:181" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -993,9 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
-          <folding>
-            <marker date="1542330781053" expanded="true" signature="401:410" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1003,21 +998,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <marker date="1542429209676" expanded="true" signature="425:430" ph="..." />
-            <marker date="1542429209676" expanded="true" signature="469:480" ph="..." />
-            <marker date="1542429209676" expanded="true" signature="1367:1806" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindNumsAppearOnce.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
             <marker date="1542438393349" expanded="true" signature="333:342" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindContinuousSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
