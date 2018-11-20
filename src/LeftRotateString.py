@@ -48,8 +48,6 @@ class Solution:
         sList.reverse()
         return "".join(sList)
 
-    #自编写反转函数
-    def Reverse(self, alist):
 
 s= "abcXYZdef"
 n = 3
