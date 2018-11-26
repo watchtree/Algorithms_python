@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IsContinuous.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LastRemaining_Solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +18,8 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.closed" value="36" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="5" />
           <entry key="project.open.time.20" value="5" />
@@ -36,21 +36,21 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="44" />
+          <entry key="project.opened" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="13" />
-          <entry key="py" value="47" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="13" />
-          <entry key="Python" value="47" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -58,42 +58,29 @@
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="1461" />
           <entry key="md" value="481" />
-          <entry key="py" value="45281" />
-          <entry key="txt" value="434" />
+          <entry key="py" value="45540" />
+          <entry key="txt" value="440" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="481" />
-          <entry key="PLAIN_TEXT" value="434" />
-          <entry key="Python" value="46742" />
+          <entry key="PLAIN_TEXT" value="440" />
+          <entry key="Python" value="47001" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseSentence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-              <folding>
-                <marker date="1542770209799" expanded="true" signature="398:407" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/IsContinuous.py">
+        <entry file="file://$PROJECT_DIR$/src/LastRemaining_Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="61" selection-end-column="62" />
+            <state relative-caret-position="380">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
               <folding>
-                <marker date="1542848736959" expanded="true" signature="492:498" ph="..." />
-                <marker date="1542848736959" expanded="true" signature="810:819" ph="..." />
+                <marker date="1543244156923" expanded="true" signature="415:424" ph="..." />
               </folding>
             </state>
           </provider>
@@ -162,12 +149,13 @@
         <option value="$PROJECT_DIR$/src/LeftRotateString.py" />
         <option value="$PROJECT_DIR$/src/ReverseSentence.py" />
         <option value="$PROJECT_DIR$/src/IsContinuous.py" />
+        <option value="$PROJECT_DIR$/src/LastRemaining_Solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
-    <option name="width" value="1299" />
+    <option name="width" value="1300" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -195,6 +183,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,7 +200,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -678,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542770224379</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="IsContinuous 扑克牌顺子">
+      <created>1542848783843</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1542848783843</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView">
@@ -691,15 +686,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1039" height="872" extended-state="0" />
+    <frame x="-8" y="0" width="1040" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24626121" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24601594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49900398" visible="true" weight="0.3282123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900398" weight="0.3282123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3924581" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -717,7 +712,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ReverseList 反转链表" />
     <MESSAGE value="merge 合并两个排序的链表" />
     <MESSAGE value="HasSubtree 树的子结构" />
     <MESSAGE value="PrintFromTopToBottom 从上往下打印出二叉树" />
@@ -742,7 +736,8 @@
     <MESSAGE value="FindNumbersWithSum 和为s的两个数字" />
     <MESSAGE value="leftTotateString 左旋转字符串" />
     <MESSAGE value="ReverseSentence 翻转单词顺序" />
-    <option name="LAST_COMMIT_MESSAGE" value="ReverseSentence 翻转单词顺序" />
+    <MESSAGE value="IsContinuous 扑克牌顺子" />
+    <option name="LAST_COMMIT_MESSAGE" value="IsContinuous 扑克牌顺子" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1076,6 +1071,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/IsContinuous.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <marker date="1542848766030" expanded="true" signature="492:498" ph="..." />
+            <marker date="1542848766030" expanded="true" signature="810:819" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseSentence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1086,13 +1092,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IsContinuous.py">
+    <entry file="file://$PROJECT_DIR$/src/LastRemaining_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="61" selection-end-column="62" />
+        <state relative-caret-position="380">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
           <folding>
-            <marker date="1542848736959" expanded="true" signature="492:498" ph="..." />
-            <marker date="1542848736959" expanded="true" signature="810:819" ph="..." />
+            <marker date="1543244156923" expanded="true" signature="415:424" ph="..." />
           </folding>
         </state>
       </provider>
