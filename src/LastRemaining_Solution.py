@@ -14,16 +14,31 @@
 '''
 class Solution:
     def LastRemaining_Solution(self, n, m):
+        #运行时间：996ms占用内存：5856k
+        if n<1 or m<1:
+            return -1
         List = [i for i in range(n)]
         cur = 0
         tempm = m
-        while(tempm!=0 and len(List)==1):
-            m = m - 1
-            if (m == 0):
-                List.pop(temp)
-                m = n
+        while(tempm!=0 and len(List)!=1):
+            if cur >= len(List):
+                cur = 0
+            tempm = tempm - 1
+            if (tempm == 0):
+                List.pop(cur)
+                tempm = m
                 continue
-            temp = temp + 1
-            if temp =
+            cur = cur + 1
+        return List[0]
 
+    #d递归数学方法运行时间：30ms占用内存：5864k
+    def LastRemaining_Solution2(self, n, m):
+        if n<1 or m<1:
+            return -1
+        remainIndex = 0
+        for i in range(1, n + 1):
+            remainIndex = (remainIndex + m) % i
+        return remainIndex
 
+S = Solution()
+print(S.LastRemaining_Solution2(5,1))

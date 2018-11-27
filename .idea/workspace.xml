@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LastRemaining_Solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LastRemaining_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/LastRemaining_Solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +23,9 @@
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="5" />
-          <entry key="project.open.time.20" value="5" />
+          <entry key="project.open.time.20" value="6" />
           <entry key="project.open.time.21" value="6" />
-          <entry key="project.open.time.22" value="4" />
+          <entry key="project.open.time.22" value="5" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.27" value="3" />
@@ -36,20 +37,20 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="md" value="13" />
+          <entry key="md" value="14" />
           <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
-          <entry key="Markdown" value="13" />
+          <entry key="Markdown" value="14" />
           <entry key="Python" value="48" />
         </counts>
       </usages-collector>
@@ -57,31 +58,44 @@
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="1461" />
-          <entry key="md" value="481" />
-          <entry key="py" value="45540" />
+          <entry key="md" value="485" />
+          <entry key="py" value="46115" />
           <entry key="txt" value="440" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Markdown" value="481" />
+          <entry key="Markdown" value="485" />
           <entry key="PLAIN_TEXT" value="440" />
-          <entry key="Python" value="47001" />
+          <entry key="Python" value="47576" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LastRemaining_Solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="285">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="30" />
               <folding>
-                <marker date="1543244156923" expanded="true" signature="415:424" ph="..." />
+                <marker date="1543321971033" expanded="true" signature="415:424" ph="..." />
+                <marker date="1543321971033" expanded="true" signature="490:499" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="336">
+                <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -137,7 +151,6 @@
         <option value="$PROJECT_DIR$/src/PrintMinNumber.py" />
         <option value="$PROJECT_DIR$/src/GetUglyNumber_Solution.py" />
         <option value="$PROJECT_DIR$/src/FirstNotRepeatingChar.py" />
-        <option value="$PROJECT_DIR$/src/readme.md" />
         <option value="$PROJECT_DIR$/src/InversePairs.py" />
         <option value="$PROJECT_DIR$/src/FindFirstCommonNode.py" />
         <option value="$PROJECT_DIR$/src/GetNumberOfK.py" />
@@ -150,13 +163,14 @@
         <option value="$PROJECT_DIR$/src/ReverseSentence.py" />
         <option value="$PROJECT_DIR$/src/IsContinuous.py" />
         <option value="$PROJECT_DIR$/src/LastRemaining_Solution.py" />
+        <option value="$PROJECT_DIR$/src/readme.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1300" />
-    <option name="height" value="1090" />
+    <option name="x" value="-9" />
+    <option name="width" value="1298" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -217,28 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IsContinuous">
-    <configuration name="FindContinuousSequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FindContinuousSequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.LastRemaining_Solution">
     <configuration name="FindNumbersWithSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,6 +266,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/IsContinuous.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LastRemaining_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/LastRemaining_Solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,19 +338,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.FindContinuousSequence" />
       <item itemvalue="Python.FindNumbersWithSum" />
       <item itemvalue="Python.LeftRotateString" />
       <item itemvalue="Python.ReverseSentence" />
       <item itemvalue="Python.IsContinuous" />
+      <item itemvalue="Python.LastRemaining_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LastRemaining_Solution" />
         <item itemvalue="Python.IsContinuous" />
         <item itemvalue="Python.ReverseSentence" />
         <item itemvalue="Python.LeftRotateString" />
         <item itemvalue="Python.FindNumbersWithSum" />
-        <item itemvalue="Python.FindContinuousSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -686,16 +700,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1040" height="872" extended-state="0" />
+    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24601594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900398" weight="0.3282123" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3924581" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900398" visible="true" weight="0.33286715" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3916084" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3282123" />
@@ -987,16 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="646">
-            <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindFirstCommonNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-40">
@@ -1064,10 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <marker date="1542714745022" expanded="true" signature="299:304" ph="..." />
-            <marker date="1542714745022" expanded="true" signature="362:371" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1075,10 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
           <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-          <folding>
-            <marker date="1542848766030" expanded="true" signature="492:498" ph="..." />
-            <marker date="1542848766030" expanded="true" signature="810:819" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,19 +1082,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
-          <folding>
-            <marker date="1542770209799" expanded="true" signature="398:407" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LastRemaining_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="285">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="30" />
           <folding>
-            <marker date="1543244156923" expanded="true" signature="415:424" ph="..." />
+            <marker date="1543321971033" expanded="true" signature="415:424" ph="..." />
+            <marker date="1543321971033" expanded="true" signature="490:499" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="336">
+            <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
