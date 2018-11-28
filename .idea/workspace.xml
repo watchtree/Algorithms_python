@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Sum_Solution.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LastRemaining_Solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/LastRemaining_Solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="36" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.18" value="3" />
           <entry key="project.open.time.19" value="5" />
@@ -27,7 +26,7 @@
           <entry key="project.open.time.21" value="6" />
           <entry key="project.open.time.22" value="5" />
           <entry key="project.open.time.24" value="3" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.27" value="3" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.30" value="1" />
@@ -37,65 +36,52 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="47" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="14" />
-          <entry key="py" value="48" />
+          <entry key="py" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="14" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Python Console" value="1461" />
-          <entry key="md" value="485" />
-          <entry key="py" value="46115" />
-          <entry key="txt" value="440" />
+          <entry key="Python Console" value="1477" />
+          <entry key="md" value="490" />
+          <entry key="py" value="46382" />
+          <entry key="txt" value="448" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Markdown" value="485" />
-          <entry key="PLAIN_TEXT" value="440" />
-          <entry key="Python" value="47576" />
+          <entry key="Markdown" value="490" />
+          <entry key="PLAIN_TEXT" value="448" />
+          <entry key="Python" value="47859" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LastRemaining_Solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="30" />
-              <folding>
-                <marker date="1543321971033" expanded="true" signature="415:424" ph="..." />
-                <marker date="1543321971033" expanded="true" signature="490:499" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="336">
-                <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/Sum_Solution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+              <folding>
+                <marker date="1543366281127" expanded="true" signature="407:416" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,13 +150,15 @@
         <option value="$PROJECT_DIR$/src/IsContinuous.py" />
         <option value="$PROJECT_DIR$/src/LastRemaining_Solution.py" />
         <option value="$PROJECT_DIR$/src/readme.md" />
+        <option value="$PROJECT_DIR$/src/um_Solution.py" />
+        <option value="$PROJECT_DIR$/src/Sum_Solution.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="width" value="1298" />
-    <option name="height" value="1089" />
+    <option name="x" value="-8" />
+    <option name="width" value="1297" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -231,28 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LastRemaining_Solution">
-    <configuration name="FindNumbersWithSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/FindNumbersWithSum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Sum_Solution">
     <configuration name="IsContinuous" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,20 +304,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sum_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sum_Solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.FindNumbersWithSum" />
       <item itemvalue="Python.LeftRotateString" />
       <item itemvalue="Python.ReverseSentence" />
       <item itemvalue="Python.IsContinuous" />
       <item itemvalue="Python.LastRemaining_Solution" />
+      <item itemvalue="Python.Sum_Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sum_Solution" />
         <item itemvalue="Python.LastRemaining_Solution" />
         <item itemvalue="Python.IsContinuous" />
         <item itemvalue="Python.ReverseSentence" />
         <item itemvalue="Python.LeftRotateString" />
-        <item itemvalue="Python.FindNumbersWithSum" />
       </list>
     </recent_temporary>
   </component>
@@ -687,7 +675,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542848783843</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="IsContinuous 扑克牌顺子">
+      <created>1543322659103</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1543322659103</updated>
+    </task>
+    <task id="LOCAL-00048" summary="LastRemaining_Solution 约瑟夫环">
+      <created>1543322704133</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1543322704133</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TodoView">
@@ -700,23 +702,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1038" height="871" extended-state="0" />
+    <frame x="-6" y="0" width="1037" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24650699" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24675325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900398" visible="true" weight="0.33286715" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3916084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49900398" weight="0.33193278" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3907563" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3282123" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3277311" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.500996" side_tool="true" weight="0.33798882" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3198324" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.31932774" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -726,7 +728,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="merge 合并两个排序的链表" />
     <MESSAGE value="HasSubtree 树的子结构" />
     <MESSAGE value="PrintFromTopToBottom 从上往下打印出二叉树" />
     <MESSAGE value="VerifySquenceOfBST 二叉搜索树的后续遍历序列" />
@@ -751,7 +752,8 @@
     <MESSAGE value="leftTotateString 左旋转字符串" />
     <MESSAGE value="ReverseSentence 翻转单词顺序" />
     <MESSAGE value="IsContinuous 扑克牌顺子" />
-    <option name="LAST_COMMIT_MESSAGE" value="IsContinuous 扑克牌顺子" />
+    <MESSAGE value="LastRemaining_Solution 约瑟夫环" />
+    <option name="LAST_COMMIT_MESSAGE" value="LastRemaining_Solution 约瑟夫环" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -760,6 +762,11 @@
           <url>file://$PROJECT_DIR$/src/Merge.py</url>
           <line>77</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Sum_Solution.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1088,7 +1095,7 @@
     <entry file="file://$PROJECT_DIR$/src/LastRemaining_Solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="30" />
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="30" />
           <folding>
             <marker date="1543321971033" expanded="true" signature="415:424" ph="..." />
             <marker date="1543321971033" expanded="true" signature="490:499" ph="..." />
@@ -1099,10 +1106,23 @@
     <entry file="file://$PROJECT_DIR$/src/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="336">
-            <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <first_editor relative-caret-position="535">
+            <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/um_Solution.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sum_Solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="55" lean-forward="true" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding>
+            <marker date="1543366281127" expanded="true" signature="407:416" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
