@@ -4,8 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/src/GetNumberOfK.py" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/match.py" afterDir="false" />
+    <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="match 正则表达式匹配">
+      <change afterPath="$PROJECT_DIR$/src/isNumeric.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +18,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
+          <entry key="project.closed" value="43" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -28,7 +28,7 @@
           <entry key="project.open.time.20" value="6" />
           <entry key="project.open.time.21" value="6" />
           <entry key="project.open.time.22" value="5" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.27" value="3" />
@@ -40,38 +40,38 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="15" />
-          <entry key="py" value="56" />
+          <entry key="py" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="15" />
-          <entry key="Python" value="56" />
+          <entry key="Python" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Bash" value="19" />
-          <entry key="Python Console" value="1625" />
+          <entry key="Python Console" value="1649" />
           <entry key="md" value="516" />
-          <entry key="py" value="50776" />
-          <entry key="txt" value="486" />
+          <entry key="py" value="51608" />
+          <entry key="txt" value="487" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="516" />
-          <entry key="PLAIN_TEXT" value="486" />
-          <entry key="Python" value="52401" />
+          <entry key="PLAIN_TEXT" value="487" />
+          <entry key="Python" value="53257" />
         </counts>
       </usages-collector>
     </session>
@@ -79,14 +79,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/match.py">
+        <entry file="file://$PROJECT_DIR$/src/isNumeric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+            <state relative-caret-position="140">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="55" selection-end-column="24" />
               <folding>
-                <marker date="1543635460570" expanded="true" signature="197:200" ph="..." />
-                <marker date="1543635460570" expanded="true" signature="2032:2034" ph="..." />
-                <marker date="1543635460570" expanded="true" signature="2032:2035" ph="..." />
+                <marker date="1543736985403" expanded="true" signature="354:363" ph="..." />
               </folding>
             </state>
           </provider>
@@ -108,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/stack_min.py" />
         <option value="$PROJECT_DIR$/src/IsPopOrder.py" />
         <option value="$PROJECT_DIR$/src/Find.py" />
         <option value="$PROJECT_DIR$/src/replaceSpace.py" />
@@ -159,6 +156,7 @@
         <option value="$PROJECT_DIR$/src/duplicate.py" />
         <option value="$PROJECT_DIR$/src/multiply.py" />
         <option value="$PROJECT_DIR$/src/match.py" />
+        <option value="$PROJECT_DIR$/src/isNumeric.py" />
       </list>
     </option>
   </component>
@@ -227,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.match">
+  <component name="RunManager" selected="Python.isNumeric">
     <configuration name="Add" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sum_Solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="isNumeric" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +280,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sum_Solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/isNumeric.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,19 +332,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Sum_Solution" />
       <item itemvalue="Python.Add" />
       <item itemvalue="Python.StrToInt" />
       <item itemvalue="Python.multiply" />
       <item itemvalue="Python.match" />
+      <item itemvalue="Python.isNumeric" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.isNumeric" />
         <item itemvalue="Python.match" />
         <item itemvalue="Python.multiply" />
         <item itemvalue="Python.StrToInt" />
         <item itemvalue="Python.Add" />
-        <item itemvalue="Python.Sum_Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -360,13 +358,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539267358879</updated>
-    </task>
-    <task id="LOCAL-00003" summary="printMatrix 顺时针打印矩阵">
-      <created>1539480483910</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1539480483910</updated>
     </task>
     <task id="LOCAL-00004" summary="stack_min 栈并包含min函数">
       <created>1539574408578</created>
@@ -704,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543536987348</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="match 正则表达式匹配">
+      <created>1543635484810</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1543635484810</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TodoView">
@@ -743,7 +741,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindPath 二叉树中和为某一值的路径" />
     <MESSAGE value="Clone 复杂链表的复制" />
     <MESSAGE value="Convert 二叉搜索树与双向链表" />
     <MESSAGE value="Permutation 字符串的排列" />
@@ -768,7 +765,8 @@
     <MESSAGE value="Sum_Solution 求前n项和" />
     <MESSAGE value="Add 加法&#10;StrToInt 把字符串转换成整数" />
     <MESSAGE value="duplicate 数组中重复的数字&#10;multiply 构建乘积数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="duplicate 数组中重复的数字&#10;multiply 构建乘积数组" />
+    <MESSAGE value="match 正则表达式匹配" />
+    <option name="LAST_COMMIT_MESSAGE" value="match 正则表达式匹配" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -799,13 +797,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/stack_min.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IsPopOrder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1155,12 +1146,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/match.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="396">
           <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
           <folding>
-            <marker date="1543635460570" expanded="true" signature="197:200" ph="..." />
-            <marker date="1543635460570" expanded="true" signature="2032:2034" ph="..." />
-            <marker date="1543635460570" expanded="true" signature="2032:2035" ph="..." />
+            <marker date="1543655294761" expanded="true" signature="197:200" ph="..." />
+            <marker date="1543655294761" expanded="true" signature="2032:2034" ph="..." />
+            <marker date="1543655294761" expanded="true" signature="2032:2035" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isNumeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <marker date="1543736985403" expanded="true" signature="354:363" ph="..." />
           </folding>
         </state>
       </provider>
