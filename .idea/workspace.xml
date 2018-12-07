@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3900cd8-df77-4ae1-9511-b6ff7c892331" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KthNode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +18,7 @@
     <session id="569590859">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="48" />
+          <entry key="project.closed" value="50" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -28,7 +27,7 @@
           <entry key="project.open.time.19" value="6" />
           <entry key="project.open.time.20" value="6" />
           <entry key="project.open.time.21" value="7" />
-          <entry key="project.open.time.22" value="7" />
+          <entry key="project.open.time.22" value="9" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="2" />
@@ -41,21 +40,21 @@
           <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="59" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="16" />
-          <entry key="py" value="65" />
+          <entry key="py" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="16" />
-          <entry key="Python" value="65" />
+          <entry key="Python" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,32 +62,46 @@
           <entry key="Bash" value="19" />
           <entry key="Python Console" value="1670" />
           <entry key="md" value="586" />
-          <entry key="py" value="57944" />
-          <entry key="txt" value="521" />
+          <entry key="py" value="58717" />
+          <entry key="txt" value="523" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="19" />
           <entry key="Markdown" value="586" />
-          <entry key="PLAIN_TEXT" value="521" />
-          <entry key="Python" value="59614" />
+          <entry key="PLAIN_TEXT" value="523" />
+          <entry key="Python" value="60387" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Serialize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="25" selection-start-line="25" selection-end-line="54" selection-end-column="23" />
+            <state relative-caret-position="180">
+              <caret line="59" selection-start-line="59" selection-end-line="78" selection-end-column="15" />
               <folding>
-                <marker date="1544066216147" expanded="true" signature="540:541" ph="..." />
-                <marker date="1544066216147" expanded="true" signature="540:549" ph="..." />
-                <marker date="1544066216147" expanded="true" signature="997:1006" ph="..." />
-                <marker date="1544066216147" expanded="true" signature="1150:1159" ph="..." />
+                <marker date="1544066325792" expanded="true" signature="509:514" ph="..." />
+                <marker date="1544066325792" expanded="true" signature="565:566" ph="..." />
+                <marker date="1544066325792" expanded="true" signature="565:574" ph="..." />
+                <marker date="1544066325792" expanded="true" signature="1022:1031" ph="..." />
+                <marker date="1544066325792" expanded="true" signature="1175:1184" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/KthNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="27" selection-start-line="27" selection-end-line="41" selection-end-column="32" />
+              <folding>
+                <marker date="1544163284849" expanded="true" signature="753:765" ph="..." />
+                <marker date="1544163284849" expanded="true" signature="942:1453" ph="..." />
               </folding>
             </state>
           </provider>
@@ -110,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jumpFloor.py" />
         <option value="$PROJECT_DIR$/src/rectCover.py" />
         <option value="$PROJECT_DIR$/src/NumverOf1.py" />
         <option value="$PROJECT_DIR$/src/power.py" />
@@ -161,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/PrintMultLine.py" />
         <option value="$PROJECT_DIR$/src/readme.md" />
         <option value="$PROJECT_DIR$/src/Serialize.py" />
+        <option value="$PROJECT_DIR$/src/KthNode.py" />
       </list>
     </option>
   </component>
@@ -229,7 +242,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Serialize">
+  <component name="RunManager" selected="Python.KthNode">
+    <configuration name="KthNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Algorithms_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/KthNode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Print" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,41 +348,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="match" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Algorithms_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/match.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.match" />
       <item itemvalue="Python.isNumeric" />
       <item itemvalue="Python.isSymmetrical" />
       <item itemvalue="Python.Print" />
       <item itemvalue="Python.Serialize" />
+      <item itemvalue="Python.KthNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.KthNode" />
         <item itemvalue="Python.Serialize" />
         <item itemvalue="Python.Print" />
         <item itemvalue="Python.isSymmetrical" />
         <item itemvalue="Python.isNumeric" />
-        <item itemvalue="Python.match" />
       </list>
     </recent_temporary>
   </component>
@@ -362,13 +375,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539267358879</updated>
-    </task>
-    <task id="LOCAL-00011" summary="minNumberInRotateArray 旋转数组的最小数字">
-      <created>1540087035451</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1540087035451</updated>
     </task>
     <task id="LOCAL-00012" summary="Fibonacci 斐波拉契数列">
       <created>1540175848162</created>
@@ -706,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544053146797</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Serialize 序列化二叉树.">
+      <created>1544066348835</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1544066348836</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView">
@@ -745,7 +758,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PrintMinNumber 把数组排成最小数" />
     <MESSAGE value="GetUglyNumber_Solution 丑数" />
     <MESSAGE value="FirstNotRepeatingChar 第一个只出现一次的字符" />
     <MESSAGE value="InversePairs 数组中的逆序对" />
@@ -770,7 +782,8 @@
     <MESSAGE value="GetNext 二叉树的下一个结点&#10;isSymmetrical 对称的二叉树" />
     <MESSAGE value="Print 按之字形顺序打印二叉树" />
     <MESSAGE value="Print 把二叉树打印成多行" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print 把二叉树打印成多行" />
+    <MESSAGE value="Serialize 序列化二叉树." />
+    <option name="LAST_COMMIT_MESSAGE" value="Serialize 序列化二叉树." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -801,13 +814,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jumpFloor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/rectCover.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1124,10 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-          <folding>
-            <marker date="1543973991202" expanded="true" signature="508:513" ph="..." />
-            <marker date="1543973991202" expanded="true" signature="508:565" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1145,10 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
           <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <marker date="1544053109894" expanded="true" signature="299:304" ph="..." />
-            <marker date="1544053109894" expanded="true" signature="378:387" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1156,22 +1154,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="50" selection-start-line="50" selection-end-line="67" selection-end-column="12" />
-          <folding>
-            <marker date="1544052410100" expanded="true" signature="465:470" ph="..." />
-            <marker date="1544052410100" expanded="true" signature="518:527" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Serialize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="25" selection-start-line="25" selection-end-line="54" selection-end-column="23" />
+        <state relative-caret-position="180">
+          <caret line="59" selection-start-line="59" selection-end-line="78" selection-end-column="15" />
           <folding>
-            <marker date="1544066216147" expanded="true" signature="540:541" ph="..." />
-            <marker date="1544066216147" expanded="true" signature="540:549" ph="..." />
-            <marker date="1544066216147" expanded="true" signature="997:1006" ph="..." />
-            <marker date="1544066216147" expanded="true" signature="1150:1159" ph="..." />
+            <marker date="1544066325792" expanded="true" signature="509:514" ph="..." />
+            <marker date="1544066325792" expanded="true" signature="565:566" ph="..." />
+            <marker date="1544066325792" expanded="true" signature="565:574" ph="..." />
+            <marker date="1544066325792" expanded="true" signature="1022:1031" ph="..." />
+            <marker date="1544066325792" expanded="true" signature="1175:1184" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="27" selection-start-line="27" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <marker date="1544163284849" expanded="true" signature="753:765" ph="..." />
+            <marker date="1544163284849" expanded="true" signature="942:1453" ph="..." />
           </folding>
         </state>
       </provider>
